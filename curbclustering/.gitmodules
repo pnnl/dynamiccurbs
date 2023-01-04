@@ -1,0 +1,3 @@
+[submodule "kmodes"]
+	path = kmodes
+	url = https://github.com/nicodv/kmodes
